@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Animax Japan (720p)",
+        "url": "http://50.7.74.29:8880/hls/j00026/index.m3u8"
+    },
+    {
+        "name": "Anime TV (360p) [Not 24/7]",
+        "url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+    },
+    {
+        "name": "AT-X (540p)",
+        "url": "http://50.7.74.29:8880/hls/j00052/index.m3u8"
+    },
+    {
+        "name": "BS Asahi (720p)",
+        "url": "http://50.7.74.29:8880/hlsok/j00048/index.m3u8"
+    },
+    {
+        "name": "BS Fuji TV (720p)",
+        "url": "http://50.7.74.29:8880/hls/j00049/index.m3u8"
+    },
+    {
+        "name": "BS Nippon TV (720p)",
+        "url": "http://50.7.74.29:8880/hlsok/j00047/index.m3u8"
+    },
+    {
+        "name": "BS TV Tokyo (720p)",
+        "url": "http://50.7.74.29:8880/hlsok/j00050/index.m3u8"
+    },
+    {
+        "name": "BS-TBS (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00051/index.m3u8"
+    },
+    {
+        "name": "Disney Channel Japan (720p) [Not 24/7]",
+        "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd"
+    },
+    {
+        "name": "Family Gekijo (Japanese Subs) (540p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00011/index.m3u8"
+    },
+    {
+        "name": "Fuji TV (720p)",
+        "url": "http://50.7.74.29:8880/hlsok/j00010/index.m3u8"
+    },
+    {
+        "name": "GAORA (540p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00045/index.m3u8"
+    },
+    {
+        "name": "GSTV (720p)",
+        "url": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8"
+    },
+    {
+        "name": "GTN Typhome (English Subs) (720p) [Not 24/7]",
+        "url": "https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8"
+    },
+    {
+        "name": "Gunma TV (720p)",
+        "url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8"
+    },
+    {
+        "name": "J Sports 1 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00042/index.m3u8"
+    },
+    {
+        "name": "J Sports 2 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00041/index.m3u8"
+    },
+    {
+        "name": "J Sports 3 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00040/index.m3u8"
+    },
+    {
+        "name": "J Sports 4 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00039/index.m3u8"
+    },
+    {
+        "name": "Kansai TV (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00006/index.m3u8"
+    },
+    {
+        "name": "MBS (Mainichi Broadcasting System) (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00038/index.m3u8"
+    },
+    {
+        "name": "Metal TV (720p) [Not 24/7]",
+        "url": "https://v2.catcast.tv/content/33816/index.m3u8"
+    },
+    {
+        "name": "NHK BS1 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00037/index.m3u8"
+    },
+    {
+        "name": "NHK BSP (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00036/index.m3u8"
+    },
+    {
+        "name": "NHK E (720p)",
+        "url": "http://50.7.74.29:8880/hls/j00035/index.m3u8"
+    },
+    {
+        "name": "NHK G Osaka (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00032/index.m3u8"
+    },
+    {
+        "name": "NHK G Tokyo (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00033/index.m3u8"
+    },
+    {
+        "name": "NHK General TV (540p) [Not 24/7]",
+        "url": "https://nhk1.mov3.co/hls/nhk.m3u8"
+    },
+    {
+        "name": "NHK World (720p)",
+        "url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8"
+    },
+    {
+        "name": "NHK World Japan (1080p)",
+        "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
+    },
+    {
+        "name": "NHK\u534E\u8BED\u89C6\u754C (360p)",
+        "url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8"
+    },
+    {
+        "name": "Nippon TV (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00004/index.m3u8"
+    },
+    {
+        "name": "NTV News24 (480p)",
+        "url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+    },
+    {
+        "name": "QVC Japan (720p)",
+        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+    },
+    {
+        "name": "Shop Channel (720p) [Not 24/7]",
+        "url": "https://stream3.shopch.jp/HLS/master.m3u8"
+    },
+    {
+        "name": "Star 1 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00019/index.m3u8"
+    },
+    {
+        "name": "Star 2 (540p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00018/index.m3u8"
+    },
+    {
+        "name": "Star 3 (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00017/index.m3u8"
+    },
+    {
+        "name": "TBS (720p)",
+        "url": "http://50.7.74.29:8880/hlsok/j00031/index.m3u8"
+    },
+    {
+        "name": "Tokyo MX1 (720p)",
+        "url": "https://movie.mcas.jp/mcas/mx_live_2/master.m3u8"
+    },
+    {
+        "name": "Tokyo MX2 (720p)",
+        "url": "https://movie.mcas.jp/mcas/mx2_2/master.m3u8"
+    },
+    {
+        "name": "TV Asahi (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00014/index.m3u8"
+    },
+    {
+        "name": "TV Osaka (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00013/index.m3u8"
+    },
+    {
+        "name": "TV Tokyo (720p) [Not 24/7]",
+        "url": "http://50.7.74.29:8880/hls/j00012/index.m3u8"
+    },
+    {
+        "name": "Weather Channel (\u30A6\u30A7\u30B6\u30FC\u30CB\u30E5\u30FC\u30B9) (BS | WNI) (720p)",
+        "url": "http://movie.mcas.jp/mcas/wn1_2/master.m3u8"
+    },
+    {
+        "name": "Weather News (720p)",
+        "url": "https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8"
+    }
+]
